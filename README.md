@@ -2,8 +2,7 @@
 
 ## Overview
 
-The project consists of several Java packages, each implementing distinct functionalities related to graphics manipulation and interactive drawing. This README.md provides an overview of each package's purpose and functionality.
-
+The project consists of several Java packages, each implementing distinct functionalities related to graphics manipulation and interactive drawing. 
 ### balloon_shooting_game Package
 
 The `balloon_shooting_game` package implements essential computer graphics transformation methods for a dynamic shooting game. These include:
